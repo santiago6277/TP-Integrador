@@ -1,0 +1,18 @@
+[
+    {
+        "-EX-": "EX",
+        "-Ano-": "2022",
+        "-Numero-": "123456",
+        "-GDEBA-": "GDEBA",
+        "-Reparticion-": "MSALGP",
+        "id": 1
+    },
+    {
+        "-EX-": "EX",
+        "-Ano-": "2021",
+        "-Numero-": "123456",
+        "-GDEBA-": "GDEBA",
+        "-Reparticion-": "MAMGP",
+        "id": 2
+    }
+]
